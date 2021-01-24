@@ -14,7 +14,7 @@ Some of my projects:
 [<img align=center alt="TicketsParty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=PythonProjectGroup&repo=ticketsparty-app&theme=dark&hide_border=true"/>](https://github.com/PythonProjectGroup/ticketsparty-app)
 [<img align=center alt="Invoice Project" src="https://github-readme-stats.vercel.app/api/pin/?username=J-A-Development-Team&repo=invoice-manager&theme=dark&hide_border=true"/>](https://github.com/J-A-Development-Team/invoice-manager)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joachimschmidt&langs_count=8)](https://github.com/joachimschmidt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joachimschmidt&layout=compact&theme=dark)](https://github.com/joachimschmidt/github-readme-stats)
 
 
 <!--
