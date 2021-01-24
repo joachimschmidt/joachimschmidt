@@ -15,6 +15,7 @@ Some of my projects:
 [<img align=center alt="Invoice Project" src="https://github-readme-stats.vercel.app/api/pin/?username=J-A-Development-Team&repo=invoice-manager&theme=dark&hide_border=true"/>](https://github.com/J-A-Development-Team/invoice-manager)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joachimschmidt&layout=compact&theme=dark)](https://github.com/joachimschmidt/github-readme-stats)
+![Joachim's github stats](https://github-readme-stats.vercel.app/api?username=joachimschmidt&count_private=true&theme=dark&show_icons=true)
 
 
 <!--
