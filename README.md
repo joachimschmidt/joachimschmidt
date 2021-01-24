@@ -4,11 +4,9 @@ Computer science student at PWR
 
 ---
 
-I’m currently working on: [<img align=center alt="Rick and Morty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=intensivevr-pub&repo=mobile-app&theme=dark&hide_border=true"/>](https://github.com/intensivevr-pub/mobile-app)
+I’m currently working on: [<img align=center alt="IntensiveVR PUB app" src="https://github-readme-stats.vercel.app/api/pin/?username=intensivevr-pub&repo=intensivevr-pub-app&theme=dark&hide_border=true"/>](https://github.com/intensivevr-pub/intensivevr-pub-app)
 
 
-- My projects:
-intensivevr-pub/mobile-app
 
 
 <!--
