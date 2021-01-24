@@ -9,7 +9,6 @@ I’m currently working on: [<img align=center alt="IntensiveVR PUB app" src="ht
 Some of my projects:
 
 [<img align=center alt="Rick and Morty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=rick-and-morty-app&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/rick-and-morty-app)
-
 [<img align=center alt="Compiler" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=compiler&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/compiler)
 
 
