@@ -8,8 +8,8 @@ I’m currently working on: [<img align=center alt="IntensiveVR PUB app" src="ht
 
 Some of my projects:
 
- [<img align=center alt="Rick and Morty app" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=/rick_and_morty_app&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/rick_and_morty_app)
- [<img align=center alt="Compiler" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=/compiler&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/compiler)
+[<img align=center alt="Rick and Morty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=rick_and_morty_app&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/rick_and_morty_app)
+[<img align=center alt="Compiler" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=/compiler&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/compiler)
 
 
 
