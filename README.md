@@ -1,14 +1,14 @@
-### Hi there 👋
+### Joachim Schmidt 👋
 
 Computer science student at PWR
 
 ---
 
-- 🔭 I’m currently working on: [<img align=center alt="Rick and Morty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=joachimschmidt&repo=rick_and_morty_app&theme=dark&hide_border=true"/>](https://github.com/joachimschmidt/rick_and_morty_app)
+I’m currently working on: [<img align=center alt="Rick and Morty APP" src="https://github-readme-stats.vercel.app/api/pin/?username=intensivevr-pub&repo=mobile-app&theme=dark&hide_border=true"/>](https://github.com/intensivevr-pub/mobile-app)
 
 
 - My projects:
-
+intensivevr-pub/mobile-app
 
 
 <!--
