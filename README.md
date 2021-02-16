@@ -5,7 +5,7 @@ Computer science student at PWR
 ---
 
 ### I’m currently working on:  
-[<img align=center alt="IntensiveVR PUB app" src="https://github-readme-stats.vercel.app/api/pin/?username=intensivevr-pub&repo=intensivevr-pub-app&theme=dark&hide_border=true"/>](https://github.com/intensivevr-pub/intensivevr-pub-app)
+[<img align=center alt="VR PUB app" src="https://github-readme-stats.vercel.app/api/pin/?username=intensivevr-pub&repo=vr-pub-app&theme=dark&hide_border=true"/>](https://github.com/intensivevr-pub/intensivevr-pub-app)
 
 ### Open source projects:
 
