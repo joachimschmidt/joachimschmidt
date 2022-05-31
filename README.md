@@ -1,6 +1,6 @@
 ## Joachim Schmidt 👋
 
-Computer science student at PWR
+Flutter Developer
 
 ---
 
